@@ -1,0 +1,30 @@
+/*
+typography is the way that text is arranged and presented.
+*/
+
+body {
+    padding: 10%;
+    font-size: 2rem;
+} 
+
+/* input, button {
+    font: inherit;
+} */
+ 
+
+p {
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: justify;
+    text-indent: 2em;
+    line-height: 1.5;
+    letter-spacing: 0.05em;
+    word-spacing: 0.2em;
+    font-weight: 500;
+    font-style: italic;
+} 
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
